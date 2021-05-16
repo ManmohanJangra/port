@@ -1,0 +1,134 @@
+body{
+  display: block;
+  margin: 0;
+  text-align: center;
+  font-family: Georgia, serif;
+}
+.heading{
+    display: inline-block;
+  background: -webkit-linear-gradient(#45B29A, #707675);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: 'Sacramento', cursive;
+  font-size: 600%;
+  margin: 0px auto 0px auto;
+  padding-top: 90px;
+}
+
+
+.p{
+  margin-top: 0px;
+  margin-bottom: 44px;
+  font-size: 2.5rem;
+}
+p{
+  opacity: 0.5;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+}
+.top-container{
+  padding-top: 150px;
+  position: relative;
+  background-color: #E0EBE8;
+  height: 300px;
+}
+
+
+.c2{
+  position: absolute;
+  padding-top: 170px;
+  left: 11%;
+}
+.c1{
+   padding-top: 130px; 
+  position: absolute;
+  right: 11%;
+}
+
+.f1{
+    position: absolute;
+    left: 30%;
+    display: inline-block;
+    height: 150px;
+    padding-top: 150px;
+}
+.f2{
+    height: 150px;
+    position: absolute;
+    right: 30%;
+    display: inline-block;
+    padding-top: 150px;
+
+}
+.footer-link{
+  margin: 0px 20px 0px 20px;
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: #21564B;
+}
+.bottom-container{
+  background-color: #E0EBE8;
+  position: relative;
+  margin-top: 20px;
+  padding: 40px 0px 10px 0px;
+}
+
+
+.SML{
+  position: absolute;
+  width: 17px;
+  height: 17px;
+  padding: 0px 5px 0px 5px;
+}
+
+.contact-me{
+  margin: 100px auto;
+  width: 50%;
+  text-align: center;
+  line-height: 2;
+}
+
+.copyright{
+  padding-top: 20px;
+  font-size: 0.75rem;
+}
+li{
+  display: inline;
+  text-decoration: none ;
+  font-family: 'Montserrat', sans-serif;
+  
+}
+
+header {
+  padding:0px 0px 20px 0px; 
+  background-color:transparent;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  width: 100%;
+}
+.head-img{
+  padding-left: 150px; 
+  margin:10px auto; 
+  width:80px; 
+  float: left;
+}
+.list{
+  display: inline-block;
+  margin-left: 770px;
+  padding-top: 30px;
+  text-decoration: none;
+}
+li{
+  padding-right:30px;
+  
+}
+
+
+
+
+
+
